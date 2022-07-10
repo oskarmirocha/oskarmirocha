@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @oskarmirocha
-- 💞️ I'm 24 years old
+- 👋 Hi, I’m Oskar
+- 🎂 I’m 24 years old
 - 👀 I’m interested in Sports/Cryptocurencies/AI/Programming/Video_Editing
 - 🌱 I’m currently learning C#
+- 💼 I’m programming in JavaScript/HTML/CSS
 - 📫 How to reach me - Email: mirocha.oskar@interia.pl
 
 <!---
