@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oskar
-- 🎂 I’m 24 years old
+- 🎂 I’m 25 years old
 - 👀 I’m interested in Sports/Cryptocurencies/AI/Programming/Video_Editing
 - 🌱 I’m currently learning Flutter
 - 💼 I’m programming in JavaScript/HTML/CSS/.NET
